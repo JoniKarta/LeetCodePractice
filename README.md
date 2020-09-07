@@ -1,0 +1,16 @@
+<div>
+  <img src="Images/Logo.jfif" alt="My Logo" height="200"> 
+</div>
+
+# Solutions For LeetCode Problems
+
+This Repo will be updated daily if it was helpful please press a star.
+
+![GitHub last commit](https://img.shields.io/github/last-commit/JoniKarta/LeetCodePractice?logo=GitHub)
+![GitHub repo size](https://img.shields.io/github/repo-size/JoniKarta/LeetCodePractice?logo=GitHub)
+![GitHub stars](https://img.shields.io/github/stars/JoniKarta/LeetCodePractice?color=%23&logo=GitHub)
+
+
+### Trees
+
+- Insert Into Binary Search Tree [Problem](https://leetcode.com/problems/insert-into-a-binary-search-tree) | [Solution](https://github.com/JoniKarta) | Medium
