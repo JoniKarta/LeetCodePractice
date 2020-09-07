@@ -14,3 +14,5 @@ This Repo will be updated daily if it was helpful please press a star.
 ### Trees
 
 - Insert Into Binary Search Tree [Problem](https://leetcode.com/problems/insert-into-a-binary-search-tree) | [Solution](https://github.com/JoniKarta/LeetCodePractice/blob/master/Trees/701.%20Insert%20into%20a%20Binary%20Search%20Tree.java) | Medium
+
+- Iterative Inorder Traversal Of Binary Search Tree [Problem](https://leetcode.com/problems/binary-tree-inorder-traversal) | [Solution](https://github.com/JoniKarta/LeetCodePractice/blob/master/Trees/94.%20Binary%20Tree%20Iterative%20Inorder%20Traversal.java)
