@@ -26,3 +26,9 @@ This Repo will be updated daily if it was helpful please press a star.
 - Find Cycle In Linked List [Problem](https://leetcode.com/problems/linked-list-cycle/) | [Solution](https://github.com/JoniKarta/LeetCodePractice/blob/master/LinkedList/141.%20Linked%20List%20Cycle.java) | Easy
 
 - Intersection In Two Linked Lists [Problem](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [Solution](https://github.com/JoniKarta/LeetCodePractice/blob/master/LinkedList/160.%20Intersection%20of%20Two%20Linked%20Lists.java) | Easy
+
+- Swap Nodes In Pairs [Problem](https://leetcode.com/problems/swap-nodes-in-pairs/) | [Solution](https://github.com/JoniKarta/LeetCodePractice/blob/master/LinkedList/24.%20Swap%20Nodes%20in%20Pairs.java) | Medium
+
+
+### Arrays 
+- Longest Consecutive Sequence [Problem](https://leetcode.com/problems/longest-consecutive-sequence) | [Solution](https://github.com/JoniKarta/LeetCodePractice/blob/master/Arrays/128.%20Longest%20Consecutive%20Sequence.java) | Hard
